@@ -101,7 +101,7 @@ const designHead = [
   {
     name: "Vishal Arya",
     img: vishal,
-    pos: "Senior Coordinator",
+    pos: "Graphics Design Coordinator",
     fb: "https://www.facebook.com/vishal.arya.92351995",
     linkedin: "https://www.linkedin.com/in/vishal-arya-1ab87a23a/",
     contact: "7827523608",
