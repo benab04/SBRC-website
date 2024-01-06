@@ -269,7 +269,7 @@ ul.social li a {
 }
 .design{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
 }
