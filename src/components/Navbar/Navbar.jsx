@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Navbar.css"
 import {motion} from "framer-motion";
-import Img from "../../assets/images/barclogo.png";
+import Img from "../../assets/images/sbrclogo.png";
 import { HashLink } from 'react-router-hash-link';
 import 'animate.css';
 function Navbar(){
