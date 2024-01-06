@@ -19,10 +19,10 @@ function Footer(){
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
           <HashLink  to={"/home-page#home-page"}>
-            <span>BARC</span>
+            <span>SBRC</span>
             </HashLink>
           </a>
-          <p>Branding and Relations cell is a student body under the aegis of the Office of Alumni Affairs and Branding.</p>
+          <p>Students' Branding and Relations cell is a student body under the aegis of the Office of Alumni Affairs and Branding.</p>
           <div class="social-links d-flex mt-4">
           <a
             target="_blank"
@@ -91,7 +91,7 @@ function Footer(){
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
           <h4>Contact Us</h4>
           <p>
-          Branding and Relations Cell <br />
+          Students' Branding and Relations Cell <br />
           Office of Alumni Affairs & Branding<br />
           Indian Institute of Technology, Kharagpur Pin-721302
           <br /> West Bengal, India<br /><br />
@@ -104,7 +104,7 @@ function Footer(){
 
     <div class="container mt-4">
       <div class="copyright">
-        Copyright  &copy; {time}. All Rights Reserved <strong><span>| Branding and Relations Cell</span></strong>
+        Copyright  &copy; {time}. All Rights Reserved <strong><span>| Students' Branding and Relations Cell</span></strong>
       </div>
      
     </div>

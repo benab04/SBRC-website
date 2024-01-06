@@ -33,7 +33,7 @@ function AboutUs() {
 
             <div className=" about-us-text">
               <motion.p>
-                Branding and Relations cell is a student body under the aegis of
+                Students' Branding and Relations cell is a student body under the aegis of
                 the Office of Alumni Affairs and Branding. It aims towards
                 positioning IIT Kharagpur as a global leader in the field of
                 science and technology.

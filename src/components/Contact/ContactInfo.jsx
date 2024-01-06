@@ -30,7 +30,7 @@ function ContactInfo() {
       <div className="info">
         <div className="information">
           <p>
-            Branding and Relations Cell
+            Students' Branding and Relations Cell
             <br /> Office of Alumni Affairs & Branding
             <br />
             Indian Institute of Technology, Kharagpur Pin-721302

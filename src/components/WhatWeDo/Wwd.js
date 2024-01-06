@@ -26,7 +26,7 @@ function WWD() {
             <div className="text">UG Achievers Directory</div>
           </div>
           <div class="back text-center">
-            <p>The Branding and Relations Cell's UG Achievers Directory (UGAD) initiative aims to highlight IIT Kharagpur students who have accomplished notable achievements during a particular academic year. The official IIT Kharagpur website features UGAD.</p>
+            <p>The Students' Branding and Relations Cell's UG Achievers Directory (UGAD) initiative aims to highlight IIT Kharagpur students who have accomplished notable achievements during a particular academic year. The official IIT Kharagpur website features UGAD.</p>
           </div>
         </div>
        
@@ -51,7 +51,7 @@ function WWD() {
             <div className="text my-5">Spotlight</div>
           </div>
           <div class="back text-center" >
-            <p>The Branding and Relations Cell has launched a ‘Spotlight’ initiative for IIT Kharagpur students, allowing students to highlight their accomplishments and awards. In the Spotlight series, the achievements of students in the fields of sports, academics, technology, sociocultural activities, and work in the field of public welfare are highlighted.</p>
+            <p>The Students' Branding and Relations Cell has launched a ‘Spotlight’ initiative for IIT Kharagpur students, allowing students to highlight their accomplishments and awards. In the Spotlight series, the achievements of students in the fields of sports, academics, technology, sociocultural activities, and work in the field of public welfare are highlighted.</p>
           </div>
         </div>
       </div>
@@ -63,7 +63,7 @@ function WWD() {
             <div className="text my-5">KGP Directory</div>
           </div>
           <div class="back text-center" >
-            <p>KGP Directory is an initiative of the Branding and Relations Cell, which comprises everything about IIT Kharagpur in a highly structured format. It contains all the essential information a fresher would require about IIT Kharagpur, all under one roof.</p>
+            <p>KGP Directory is an initiative of the Students' Branding and Relations Cell, which comprises everything about IIT Kharagpur in a highly structured format. It contains all the essential information a fresher would require about IIT Kharagpur, all under one roof.</p>
           </div>
         </div>
       </div>

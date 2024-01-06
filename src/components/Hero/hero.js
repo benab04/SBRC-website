@@ -71,7 +71,7 @@ function App() {
       <div >
         <img className='title-image' src={Img} alt="BARC"/></div>
     
-      <div><h1>BRANDING AND RELATIONS CELL, IIT KHARAGPUR</h1></div>
+      <div><h1>STUDENTS' BRANDING AND RELATIONS CELL, IIT KHARAGPUR</h1></div>
       </div>
      </motion.div>
      <motion.a initial={{opacity:0}} animate={{opacity:1}} transition={{delay:6}} href="">
