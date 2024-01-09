@@ -83,11 +83,32 @@
   width: 100%;
 }
 
+
+.yip-redirect{
+  margin-left: 20px;
+    border: solid 0.3px transparent;
+    border-radius: 50px;
+    padding: 0.2rem 2rem;
+    margin-top:-40px;
+    color: #000;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    font-family: 'Raleway',sans-serif;
+    text-decoration: none !important;
+}
+
 @media only screen and (max-width: 868px) {
   .front>.text {
     font-size: 32px;
   }
   .back{
-    font-size: 22px;
+    font-size: 20px;
+  }
+  .yip-redirect{
+    margin-top:-60px;
   }
 }
