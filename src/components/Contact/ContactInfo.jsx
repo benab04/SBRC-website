@@ -69,7 +69,7 @@ function ContactInfo() {
             aishwarypatel2004@gmail.com
           </p>
         </div>
-        <p className="text">Mrs. Bhumi Tayal</p>
+        <p className="text">Ms. Bhumi Tayal</p>
         <div className="information">
           <p>
             <a style={{ color: "inherit" }} href="tel:+91-7684067297">
