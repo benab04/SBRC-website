@@ -8,23 +8,17 @@ import Ben from "./SM/Ben.jpg";
 import Devika from "./SM/Devika.jpg";
 import Dhruv from "./SM/Dhruv.jpg";
 import Gnaneswar from "./SM/Gnaneswar.jpg";
-import Harshdeep from "./SM/Harshdeep.jpg";
 import Jatain from "./SM/Jatain.jpg";
 import Jeevan from "./SM/Jeevan.jpg";
 import Manash from "./SM/Manash.jpg";
 import Mohit from "./SM/Mohit.jpg";
 import Nikhil from "./SM/Nikhil.jpg";
-// import Omprakash from "./SM/Omprakash.jpg";
-// import Pradnya from "./SM/Pradnya.jpg";
-// import Raj from "./SM/Raj.jpg";
 import Ranjeeta from "./SM/Ranjeeta.jpg";
 import Sai from "./SM/Sai.jpg";
-// import Satyam from "./SM/Satyam.jpg";
 import Shubham from "./SM/Shubham.jpg";
 import Swara from "./SM/Swara.jpg";
 import Uma from "./SM/Uma.jpg";
 import Vaibhav from "./SM/Vaibhav.jpg";
-import Ujjwal from "./SM/Ujjwal.jpg";
 import Praneeth from "./SM/Praneeth.jpg";
 
 const studData = [
@@ -33,11 +27,7 @@ const studData = [
     img: Akshat,
     pos: "Student Member",
   },
-  // {
-  //   name: "Akshil Jain",
-  //   img: dummy,
-  //   pos: "Student Member",
-  // },
+
   {
     name: "Amogh Ubhalkar",
     img: dummy,
@@ -48,11 +38,7 @@ const studData = [
     img: dummy,
     pos: "Student Member",
   },
-  {
-    name: "Ansh Murarka",
-    img: dummy,
-    pos: "Student Member",
-  },
+
   {
     name: "Anup Kumar",
     img: Anup,
@@ -98,11 +84,7 @@ const studData = [
     img: Dhruv,
     pos: "Student Member",
   },
-  {
-    name: "Harshdeep Mili",
-    img: Harshdeep,
-    pos: "Student Member",
-  },
+
   {
     name: "Jatain Kumar",
     img: Jatain,
@@ -133,31 +115,19 @@ const studData = [
     img: Nikhil,
     pos: "Student Member",
   },
-  // {
-  //   name: "Pranay Anil Darode",
-  //   img: dummy,
-  //   pos: "Student Member",
-  // },
+
   {
     name: "Priyadarshi Shaket",
     img: dummy,
     pos: "Student Member",
   },
-  // {
-  //   name: "Raj Aryan",
-  //   img: Raj,
-  //   pos: "Student Member",
-  // },
+
   {
     name: "Ranjeeta Mashal",
     img: Ranjeeta,
     pos: "Student Member",
   },
-  // {
-  //   name: "Rathlavath Omprakash",
-  //   img: Omprakash,
-  //   pos: "Student Member",
-  // },
+
   {
     name: "S Praneeth Kumar",
     img: Praneeth,
@@ -168,11 +138,7 @@ const studData = [
     img: Sai,
     pos: "Student Member",
   },
-  // {
-  //   name: "Satyam Jayswal",
-  //   img: Satyam,
-  //   pos: "Student Member",
-  // },
+
   {
     name: "Shubham Pingale",
     img: Shubham,
@@ -198,36 +164,6 @@ const studData = [
     img: dummy,
     pos: "Student Member",
   },
-  {
-    name: "Ujjwal Kumar",
-    img: Ujjwal,
-    pos: "Student Member",
-  },
-  {
-    name: "Raghav Kishore",
-    img: dummy,
-    pos: "Student Member",
-  },
-  {
-    name: "Ananya Sikdar",
-    img: dummy,
-    pos: "Student Member",
-  },
-  // {
-  //   name: "Pragya Bhootra",
-  //   img: dummy,
-  //   pos: "Student Member",
-  // },
-  // {
-  //   name: "Pradnya Ukey",
-  //   img: Pradnya,
-  //   pos: "Student Member",
-  // },
-  // {
-  //   name: "Madipelli Sreetham",
-  //   img: dummy,
-  //   pos: "Student Member",
-  // },
 ];
 
 export default studData;
