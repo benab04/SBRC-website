@@ -289,3 +289,29 @@ border: 0px solid rgba(173, 216, 230, 0.3);
     padding: 0.45rem 1.2rem;
   }
 }
+
+
+/* Add this CSS to your stylesheet */
+.contact-form {
+  width: 100%;
+  max-width: 640px; /* Set a maximum width if needed */
+  margin: 0 auto; /* Center the container */
+}
+
+iframe {
+  width: 100%;
+  margin-top: 10px;
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+  iframe {
+    height: 500px; /* Adjust the height for smaller viewports */
+  }
+}
+
+@media (max-width: 480px) {
+  iframe {
+    height: 400px; /* Adjust the height for even smaller viewports */
+  }
+}
