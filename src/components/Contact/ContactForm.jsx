@@ -54,7 +54,7 @@ function ContactForm() {
       <iframe
         src={`https://docs.google.com/forms/d/e/${process.env.REACT_APP_FORM_ID}/viewform?embedded=true`}
         width="640"
-        height="600"
+        height="660"
         frameborder="0"
         marginheight="0"
         marginwidth="0"
