@@ -1,8 +1,16 @@
 import React from "react";
 function ContactForm() {
+  function submitForm(e) {
+    e.preventDefault(); // Prevents the default form submission behavior
+
+    const formData = new FormData(e.target);
+    formData.forEach((value, key) => {
+      console.log(`${key}: ${value}`);
+    });
+  }
   return (
     <div className="contact-form">
-      <form>
+      <form onSubmit={(e) => submitForm(e)}>
         <h3 className="title-form">Contact us</h3>
         <div className="input-container">
           <i className="fa-solid fa-user"></i>
