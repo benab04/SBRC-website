@@ -8,20 +8,20 @@ import Preloader from "../../Preloader/Preloader";
 import Gallery from "../../Gallery/gallery";
 import Footer from "../../PageFooter/Footer";
 import ScrollTop from "../../ScrollTop/scrolltop";
-function View(){
-    return (
-      <div id="view">
-        <ScrollTop />
-        <Preloader />
-        <Navbar />
-        <Hero />
-        <AboutUs />
-        <WhatWeDo />
-        <Gallery /> 
-        <Contact />
-        <Footer />
-      </div>
-    );
-  }
-  
-  export default View;
+function View() {
+  return (
+    <div id="view">
+      <ScrollTop />
+      <Preloader />
+      <Navbar />
+      <Hero />
+      <AboutUs />
+      <WhatWeDo />
+      <Gallery />
+      <Contact />
+      <Footer />
+    </div>
+  );
+}
+
+export default View;

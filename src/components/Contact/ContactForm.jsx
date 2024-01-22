@@ -52,7 +52,7 @@ function ContactForm() {
         <input type="submit" value="Submit" className="btn" />
       </form> */}
       <iframe
-        src="https://docs.google.com/forms/d/e/1FAIpQLSema4Tvdcc7vR9Y-jpeRRsM-gkw8IYy27RdISF1tFvVRnDZhQ/viewform?embedded=true"
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdeBkWgQHTxkGbmZpjuhmvT-iRUyypMwDbm6OEr_LKxH1j1CQ/viewform?embedded=true"
         width="640"
         height="660"
         frameborder="0"
