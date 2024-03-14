@@ -8,6 +8,7 @@ import {
   aish,
 } from "./Heads";
 import studData from "./StudentMembers";
+import asmData from "./AssociateMembers";
 import { motion } from "framer-motion";
 
 function Teams() {
@@ -443,6 +444,43 @@ function Teams() {
                           src={ele.img}
                         ></img>
                       </motion.div>
+                      <div className="card-body col-md-8 col-sm-8">
+                        <h4
+                          className="card-title my-2"
+                          style={{
+                            color: "white",
+                            fontFamily: "Raleway,sans-serif",
+                          }}
+                        >
+                          {ele.name}
+                        </h4>
+                      </div>
+                    </div>
+                  </>
+                );
+              })}
+            </div>
+            <h3
+              className="team-title"
+              style={{
+                color: "#08707f",
+                fontFamily: "Raleway,sans-serif",
+                marginBottom: "4rem",
+                marginTop: "5rem",
+              }}
+            >
+              ASSOCIATE MEMBERS
+            </h3>
+            <div className="row">
+              {asmData.map((ele, i) => {
+                // console.log(ele.img);
+
+                return (
+                  <>
+                    <div
+                      className="studmemb row col-lg-5 col-md-7 my-4 col-sm-5 d-flex align-items-center card_ mx-auto"
+                      style={{ borderRadius: "20px" }}
+                    >
                       <div className="card-body col-md-8 col-sm-8">
                         <h4
                           className="card-title my-2"
